@@ -21,6 +21,8 @@ Links to git-related resources
 - [Zenhub - Agile Project Management for Software Teams](https://www.zenhub.com/)
 - [About GitLab | GitLab](https://about.gitlab.com/company/)
 
+## Best practices for project organization
+- [R Best Practices](https://kdestasio.github.io/post/r_best_practices/)
 ----
 
 <figure>
