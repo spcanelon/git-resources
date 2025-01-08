@@ -3,8 +3,8 @@ Links to git-related resources
 
 ## Illustrated resources
 
-- [Fixing Common Git Mistakes](https://maggieappleton.com/git-mistakes)
-- [Oh shit, git!](https://wizardzines.com/zines/oh-shit-git/)
+- [Fixing Common Git Mistakes](https://maggieappleton.com/git-mistakes) illustrated notes by Maggie Appleton
+- [Oh shit, git!](https://wizardzines.com/zines/oh-shit-git/) -- programming zine by Julia Evans
 
 ## Further reading
 
