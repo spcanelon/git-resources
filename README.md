@@ -1,5 +1,5 @@
-# chti-data-working-group
-Links to git-related resources
+# Git Resources
+Evolving list with links to git-related resources
 
 ## Illustrated resources
 
